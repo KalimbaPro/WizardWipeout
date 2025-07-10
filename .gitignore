@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Additional Content Directories
+Content/Realistic_Starter_VFX_Pack_Vol2/
+Content/NEWASSETSIMPORT/
+Content/M5VFXVOL2/
+Content/Fantasy_1/
